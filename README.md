@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-First got to news api website get your API key and then use it inside App.js file....
+First go to news api website get your API key and then use it inside App.js file....
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
